@@ -1,16 +1,28 @@
-@layer theme, base, mui, components, utilities;
+@layer theme, base, components, utilities;
 @import 'tailwindcss';
 
 :root {
   --background: #ffffff;
   --foreground: #171717;
+
+  --primary: #2563eb;
+  --primary-foreground: #f8fafc;
+
+  --secondary: #f1f5f9;
+  --secondary-foreground: #0f172a;
+
+  --radius: 0.5rem;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -18,6 +30,17 @@
     --background: #0a0a0a;
     --foreground: #ededed;
   }
+}
+
+@keyframes rainbow {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+.animate-rainbow {
+  background-size: 300% 300%;
+  animation: rainbow 6s linear infinite;
 }
 
 body {

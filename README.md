@@ -1,36 +1,47 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Esta es una plantilla para proyectos creada con NextJs 16.1.6 
 
-## Getting Started
+## ¿Qué es Next.js?
 
-First, run the development server:
+Next.js es un **framework de React** que facilita la creación de aplicaciones web modernas.  
+Ofrece **renderizado del lado del servidor (SSR)**, **generación estática (SSG)** y optimizaciones integradas como **ruteo automático**, **código dividido por páginas** y **soporte para API routes**.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ¿Cómo funciona?
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Next.js funciona sobre **React**, añadiendo capacidades como:
+- **Renderizado del lado del servidor (SSR)** y **generación estática (SSG)**.
+- **Ruteo automático** basado en la estructura de carpetas.
+- **Optimización de rendimiento**: división de código, imágenes optimizadas y soporte para SEO.
+- **API Routes** para crear endpoints backend dentro del mismo proyecto.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## ¿Cómo se organizan las carpetas?
 
-To learn more about Next.js, take a look at the following resources:
+> /pages -> Rutas y vistas (cada archivo es una ruta) 
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+> /components -> Componentes reutilizables 
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+> /styles -> Archivos CSS o módulos de estilo 
 
-## Deploy on Vercel
+> /public -> Recursos estáticos (imágenes, fuentes) 
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+> /lib o /utils -> Funciones auxiliares y lógica compartida 
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+> /hooks -> Custom hooks 
+
+> /api -> Endpoints internos (si se usan API Routes)
+
+---
+
+## ¿Qué arquitectura se recomienda?
+
+Como tal, no existe una arquitectura única que sea mejor al usar Next.js, ya que el framework trabaja con un orden en sus carpetas donde sus nombres tienen una razón de ser.  
+Aunque, actualmente hay dos arquitecturas populares: **Screaming** y **Modular**.
+
+| Arquitectura | Organización | Ventajas | Ideal para | Desventajas |
+|--------------|--------------|----------|------------|-------------|
+| **Screaming Architecture** | Carpetas organizadas por **dominio o funcionalidad** (ej. `/users`, `/products`, `/orders`) | - Claridad en el propósito del proyecto<br>- Fácil de entender la lógica de negocio | Proyectos grandes donde la **lógica de negocio** es más importante que la tecnología | - Puede generar duplicación de código<br>- Menos reutilización de componentes<br>- Escalabilidad más difícil si no se controla bien |
+| **Modular** | Proyecto dividido en **módulos independientes** que incluyen sus propios componentes, hooks, estilos y servicios | - Reutilización de código<br>- Aislamiento de dependencias<br>- Escalabilidad | Equipos grandes y proyectos que requieren **alta mantenibilidad y crecimiento** | - Puede ser más complejo de configurar<br>- Riesgo de sobre‑modularización<br>- Curva de aprendizaje mayor para nuevos integrantes |
+

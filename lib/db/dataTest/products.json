@@ -1,0 +1,802 @@
+[
+  {
+    "name": "Laptop Ultrabook X1",
+    "description": "Laptop ligera de 14 pulgadas con procesador Intel Core i7, 16GB RAM y 512GB SSD.",
+    "image": "https://picsum.photos/id/0/200/300",
+    "price": 1299.99,
+    "categories": [
+      "Electrónica",
+      "Computadoras"
+    ],
+    "keywords": [
+      "laptop",
+      "ultrabook",
+      "i7",
+      "ssd"
+    ]
+  },
+  {
+    "name": "Auriculares Bluetooth Pro",
+    "description": "Auriculares inalámbricos con cancelación de ruido y 30 horas de batería.",
+    "image": "https://picsum.photos/id/1/200/300",
+    "price": 89.99,
+    "categories": [
+      "Electrónica",
+      "Audio"
+    ],
+    "keywords": [
+      "auriculares",
+      "bluetooth",
+      "cancelación ruido"
+    ]
+  },
+  {
+    "name": "Camiseta Deportiva DryFit",
+    "description": "Camiseta transpirable para correr o gimnasio, disponible en varios colores.",
+    "image": "https://picsum.photos/id/2/200/300",
+    "price": 24.99,
+    "categories": [
+      "Ropa",
+      "Deportes"
+    ],
+    "keywords": [
+      "camiseta",
+      "deportiva",
+      "dryfit",
+      "gimnasio"
+    ]
+  },
+  {
+    "name": "Smartphone Galaxy S22",
+    "description": "Pantalla AMOLED 6.1 pulgadas, cámara triple de 50MP, 128GB almacenamiento.",
+    "image": "https://picsum.photos/id/3/200/300",
+    "price": 799.99,
+    "categories": [
+      "Electrónica",
+      "Teléfonos"
+    ],
+    "keywords": [
+      "smartphone",
+      "android",
+      "galaxy",
+      "50mp"
+    ]
+  },
+  {
+    "name": "Zapatillas Running Airmax",
+    "description": "Zapatillas con amortiguación de aire, suela de goma antideslizante.",
+    "image": "https://picsum.photos/id/4/200/300",
+    "price": 119.99,
+    "categories": [
+      "Ropa",
+      "Zapatos",
+      "Deportes"
+    ],
+    "keywords": [
+      "zapatillas",
+      "running",
+      "airmax",
+      "deportivas"
+    ]
+  },
+  {
+    "name": "Monitor 27'' 4K UHD",
+    "description": "Monitor IPS 4K, 60Hz, 1ms, compatible HDR10.",
+    "image": "https://picsum.photos/id/5/200/300",
+    "price": 349.99,
+    "categories": [
+      "Electrónica",
+      "Computadoras"
+    ],
+    "keywords": [
+      "monitor",
+      "4k",
+      "uhd",
+      "ips"
+    ]
+  },
+  {
+    "name": "Mochila Impermeable Trekker",
+    "description": "Mochila de 30L con compartimento para laptop, resistente al agua.",
+    "image": "https://picsum.photos/id/6/200/300",
+    "price": 59.99,
+    "categories": [
+      "Accesorios",
+      "Viajes"
+    ],
+    "keywords": [
+      "mochila",
+      "impermeable",
+      "trekking",
+      "laptop"
+    ]
+  },
+  {
+    "name": "Teclado Mecánico RGB",
+    "description": "Teclado mecánico con switches azules, iluminación RGB personalizable.",
+    "image": "https://picsum.photos/id/7/200/300",
+    "price": 79.99,
+    "categories": [
+      "Electrónica",
+      "Computadoras"
+    ],
+    "keywords": [
+      "teclado",
+      "mecánico",
+      "rgb",
+      "gaming"
+    ]
+  },
+  {
+    "name": "Gafas de Sol Polarizadas",
+    "description": "Protección UV400, marco ligero de metal, lentes polarizadas.",
+    "image": "https://picsum.photos/id/8/200/300",
+    "price": 45.99,
+    "categories": [
+      "Accesorios",
+      "Moda"
+    ],
+    "keywords": [
+      "gafas",
+      "sol",
+      "polarizadas",
+      "uv400"
+    ]
+  },
+  {
+    "name": "Reloj Inteligente FitTrack",
+    "description": "Monitor de ritmo cardíaco, GPS, resistencia al agua 5ATM.",
+    "image": "https://picsum.photos/id/9/200/300",
+    "price": 149.99,
+    "categories": [
+      "Electrónica",
+      "Deportes"
+    ],
+    "keywords": [
+      "smartwatch",
+      "reloj",
+      "fitness",
+      "gps"
+    ]
+  },
+  {
+    "name": "Libro 'El poder del ahora'",
+    "description": "Bestseller de Eckhart Tolle sobre conciencia espiritual.",
+    "image": "https://picsum.photos/id/10/200/300",
+    "price": 14.99,
+    "categories": [
+      "Libros",
+      "Autoayuda"
+    ],
+    "keywords": [
+      "libro",
+      "espiritualidad",
+      "ahora",
+      "tolle"
+    ]
+  },
+  {
+    "name": "Silla Ergonómica Oficina",
+    "description": "Silla con soporte lumbar, ajuste de altura y reposabrazos.",
+    "image": "https://picsum.photos/id/11/200/300",
+    "price": 199.99,
+    "categories": [
+      "Hogar",
+      "Muebles"
+    ],
+    "keywords": [
+      "silla",
+      "ergonómica",
+      "oficina",
+      "lumbar"
+    ]
+  },
+  {
+    "name": "Botella Térmica Acero",
+    "description": "Mantiene bebidas frías/calientes por 12 horas, 500ml.",
+    "image": "https://picsum.photos/id/12/200/300",
+    "price": 19.99,
+    "categories": [
+      "Hogar",
+      "Deportes"
+    ],
+    "keywords": [
+      "botella",
+      "térmica",
+      "acero",
+      "agua"
+    ]
+  },
+  {
+    "name": "Cámara Web 4K",
+    "description": "Cámara para videollamadas con micrófono dual y obturador de privacidad.",
+    "image": "https://picsum.photos/id/13/200/300",
+    "price": 89.99,
+    "categories": [
+      "Electrónica",
+      "Computadoras"
+    ],
+    "keywords": [
+      "cámara web",
+      "4k",
+      "videollamadas",
+      "streaming"
+    ]
+  },
+  {
+    "name": "Chaqueta de Cuero Sintético",
+    "description": "Chaqueta estilo motoquero, forro interior de algodón.",
+    "image": "https://picsum.photos/id/14/200/300",
+    "price": 89.99,
+    "categories": [
+      "Ropa",
+      "Moda"
+    ],
+    "keywords": [
+      "chaqueta",
+      "cuero",
+      "motoquero",
+      "sintético"
+    ]
+  },
+  {
+    "name": "Tableta Gráfica Digital",
+    "description": "Área de dibujo activa 10x6 pulgadas, 8192 niveles de presión.",
+    "image": "https://picsum.photos/id/15/200/300",
+    "price": 129.99,
+    "categories": [
+      "Electrónica",
+      "Arte"
+    ],
+    "keywords": [
+      "tableta",
+      "gráfica",
+      "dibujo",
+      "digital"
+    ]
+  },
+  {
+    "name": "Juego de Sábanas 300 Hilos",
+    "description": "Sábanas 100% algodón, incluye 2 fundas, 1 sábana bajera y 1 encimera.",
+    "image": "https://picsum.photos/id/16/200/300",
+    "price": 39.99,
+    "categories": [
+      "Hogar",
+      "Textiles"
+    ],
+    "keywords": [
+      "sábanas",
+      "algodón",
+      "300 hilos",
+      "cama"
+    ]
+  },
+  {
+    "name": "Bicicleta Estática Plegable",
+    "description": "Bicicleta fija con pantalla LCD y 8 niveles de resistencia.",
+    "image": "https://picsum.photos/id/17/200/300",
+    "price": 249.99,
+    "categories": [
+      "Deportes",
+      "Ejercicio"
+    ],
+    "keywords": [
+      "bicicleta",
+      "estática",
+      "plegable",
+      "fitness"
+    ]
+  },
+  {
+    "name": "Cargador Inalámbrico Rápido",
+    "description": "Carga rápida 15W compatible con Qi, diseño ultrafino.",
+    "image": "https://picsum.photos/id/18/200/300",
+    "price": 24.99,
+    "categories": [
+      "Electrónica",
+      "Accesorios"
+    ],
+    "keywords": [
+      "cargador",
+      "inalámbrico",
+      "qi",
+      "rápido"
+    ]
+  },
+  {
+    "name": "Puzzle 1000 Piezas",
+    "description": "Puzzle de paisaje natural, tamaño final 68x48cm.",
+    "image": "https://picsum.photos/id/19/200/300",
+    "price": 18.99,
+    "categories": [
+      "Juegos",
+      "Entretenimiento"
+    ],
+    "keywords": [
+      "puzzle",
+      "1000 piezas",
+      "paisaje",
+      "rompecabezas"
+    ]
+  },
+  {
+    "name": "Altavoz Portátil Bluetooth",
+    "description": "Potencia 20W, resistente al agua IPX7, batería 12h.",
+    "image": "https://picsum.photos/id/20/200/300",
+    "price": 59.99,
+    "categories": [
+      "Electrónica",
+      "Audio"
+    ],
+    "keywords": [
+      "altavoz",
+      "bluetooth",
+      "portátil",
+      "ipx7"
+    ]
+  },
+  {
+    "name": "Cojín Lumbar Memory Foam",
+    "description": "Cojín ortopédico para silla de coche u oficina.",
+    "image": "https://picsum.photos/id/21/200/300",
+    "price": 29.99,
+    "categories": [
+      "Hogar",
+      "Salud"
+    ],
+    "keywords": [
+      "cojín",
+      "lumbar",
+      "memory foam",
+      "espalda"
+    ]
+  },
+  {
+    "name": "Set de Herramientas 150 piezas",
+    "description": "Estuche con llaves, destornilladores, martillo y alicates.",
+    "image": "https://picsum.photos/id/22/200/300",
+    "price": 79.99,
+    "categories": [
+      "Hogar",
+      "Herramientas"
+    ],
+    "keywords": [
+      "herramientas",
+      "set",
+      "manualidades",
+      "hogar"
+    ]
+  },
+  {
+    "name": "Bolso Bandolera Piel",
+    "description": "Bandolera de piel genuina con varios compartimentos.",
+    "image": "https://picsum.photos/id/23/200/300",
+    "price": 49.99,
+    "categories": [
+      "Accesorios",
+      "Moda"
+    ],
+    "keywords": [
+      "bolso",
+      "bandolera",
+      "piel",
+      "mujer"
+    ]
+  },
+  {
+    "name": "Robot Aspirador Inteligente",
+    "description": "Aspira y friega, mapeo láser, compatible con Alexa.",
+    "image": "https://picsum.photos/id/24/200/300",
+    "price": 299.99,
+    "categories": [
+      "Hogar",
+      "Electrónica"
+    ],
+    "keywords": [
+      "robot",
+      "aspirador",
+      "smart",
+      "láser"
+    ]
+  },
+  {
+    "name": "Gel Anti-estrés Aloe Vera",
+    "description": "Gel refrescante para piel irritada o cansancio muscular.",
+    "image": "https://picsum.photos/id/25/200/300",
+    "price": 12.99,
+    "categories": [
+      "Salud",
+      "Belleza"
+    ],
+    "keywords": [
+      "gel",
+      "aloe vera",
+      "antiestrés",
+      "piel"
+    ]
+  },
+  {
+    "name": "Microondas 20L 800W",
+    "description": "Horno microondas con panel digital y función descongelado.",
+    "image": "https://picsum.photos/id/26/200/300",
+    "price": 89.99,
+    "categories": [
+      "Hogar",
+      "Electrodomésticos"
+    ],
+    "keywords": [
+      "microondas",
+      "800w",
+      "20l",
+      "cocina"
+    ]
+  },
+  {
+    "name": "Patinete Eléctrico Plegable",
+    "description": "Autonomía 25km, velocidad máxima 25km/h, ruedas 8.5 pulgadas.",
+    "image": "https://picsum.photos/id/27/200/300",
+    "price": 349.99,
+    "categories": [
+      "Movilidad",
+      "Deportes"
+    ],
+    "keywords": [
+      "patinete",
+      "eléctrico",
+      "plegable",
+      "e-scooter"
+    ]
+  },
+  {
+    "name": "Cafetera Express Italiana",
+    "description": "Cafetera de acero inoxidable para 6 tazas, compatible inducción.",
+    "image": "https://picsum.photos/id/28/200/300",
+    "price": 34.99,
+    "categories": [
+      "Hogar",
+      "Cocina"
+    ],
+    "keywords": [
+      "cafetera",
+      "express",
+      "italiana",
+      "moka"
+    ]
+  },
+  {
+    "name": "Pulsera de Actividad Fitness",
+    "description": "Monitor de sueño, pasos y calorías, notificaciones inteligentes.",
+    "image": "https://picsum.photos/id/29/200/300",
+    "price": 39.99,
+    "categories": [
+      "Electrónica",
+      "Deportes"
+    ],
+    "keywords": [
+      "pulsera",
+      "actividad",
+      "fitness",
+      "smartband"
+    ]
+  },
+  {
+    "name": "Set de Toallas Microfibra",
+    "description": "3 toallas de secado rápido, ideales para playa o gimnasio.",
+    "image": "https://picsum.photos/id/30/200/300",
+    "price": 22.99,
+    "categories": [
+      "Hogar",
+      "Deportes"
+    ],
+    "keywords": [
+      "toallas",
+      "microfibra",
+      "playa",
+      "gimnasio"
+    ]
+  },
+  {
+    "name": "Ratón Inalámbrico Silencioso",
+    "description": "Ratón ergonómico con botones silenciosos y 3 niveles DPI.",
+    "image": "https://picsum.photos/id/31/200/300",
+    "price": 19.99,
+    "categories": [
+      "Electrónica",
+      "Computadoras"
+    ],
+    "keywords": [
+      "ratón",
+      "inalámbrico",
+      "silencioso",
+      "ergonómico"
+    ]
+  },
+  {
+    "name": "Ventilador de Torre 40''",
+    "description": "Ventilador silencioso con control remoto y 3 velocidades.",
+    "image": "https://picsum.photos/id/32/200/300",
+    "price": 69.99,
+    "categories": [
+      "Hogar",
+      "Climatización"
+    ],
+    "keywords": [
+      "ventilador",
+      "torre",
+      "silencioso",
+      "remoto"
+    ]
+  },
+  {
+    "name": "Cinturón de Cuero Ajustable",
+    "description": "Cinturón reversible (negro/marrón), hebilla metálica.",
+    "image": "https://picsum.photos/id/33/200/300",
+    "price": 27.99,
+    "categories": [
+      "Ropa",
+      "Accesorios"
+    ],
+    "keywords": [
+      "cinturón",
+      "cuero",
+      "reversible",
+      "hombre"
+    ]
+  },
+  {
+    "name": "Lámpara LED de Escritorio",
+    "description": "Lámpara con pantalla táctil, 5 modos de luz y puerto USB.",
+    "image": "https://picsum.photos/id/34/200/300",
+    "price": 32.99,
+    "categories": [
+      "Hogar",
+      "Iluminación"
+    ],
+    "keywords": [
+      "lámpara",
+      "led",
+      "escritorio",
+      "táctil"
+    ]
+  },
+  {
+    "name": "Mascarilla Facial Carbón",
+    "description": "Pack de 5 mascarillas purificantes con carbón activado.",
+    "image": "https://picsum.photos/id/35/200/300",
+    "price": 9.99,
+    "categories": [
+      "Belleza",
+      "Salud"
+    ],
+    "keywords": [
+      "mascarilla",
+      "carbón",
+      "facial",
+      "purificante"
+    ]
+  },
+  {
+    "name": "Cuchillo Multiusos Suizo",
+    "description": "Navaja de 12 funciones, incluye tijeras, destornillador y abrelatas.",
+    "image": "https://picsum.photos/id/36/200/300",
+    "price": 29.99,
+    "categories": [
+      "Herramientas",
+      "Aire libre"
+    ],
+    "keywords": [
+      "cuchillo",
+      "suizo",
+      "multiusos",
+      "navaja"
+    ]
+  },
+  {
+    "name": "Funda para iPad Pro 12.9",
+    "description": "Funda con soporte incorporado y funda para lápiz.",
+    "image": "https://picsum.photos/id/37/200/300",
+    "price": 39.99,
+    "categories": [
+      "Electrónica",
+      "Accesorios"
+    ],
+    "keywords": [
+      "funda",
+      "ipad pro",
+      "12.9",
+      "soporte"
+    ]
+  },
+  {
+    "name": "Soporte para TV Pared",
+    "description": "Soporte inclinable para TVs de 32 a 65 pulgadas, hasta 45kg.",
+    "image": "https://picsum.photos/id/38/200/300",
+    "price": 24.99,
+    "categories": [
+      "Hogar",
+      "Electrónica"
+    ],
+    "keywords": [
+      "soporte",
+      "tv",
+      "pared",
+      "inclinable"
+    ]
+  },
+  {
+    "name": "Aceite Esencial Lavanda",
+    "description": "Aceite puro para aromaterapia, 15ml, envase con cuentagotas.",
+    "image": "https://picsum.photos/id/39/200/300",
+    "price": 11.99,
+    "categories": [
+      "Salud",
+      "Hogar"
+    ],
+    "keywords": [
+      "aceite esencial",
+      "lavanda",
+      "aromaterapia",
+      "relajación"
+    ]
+  },
+  {
+    "name": "Cascos de Bicicleta Urbano",
+    "description": "Casco ligero con luces LED traseras y ventilación.",
+    "image": "https://picsum.photos/id/40/200/300",
+    "price": 49.99,
+    "categories": [
+      "Deportes",
+      "Seguridad"
+    ],
+    "keywords": [
+      "casco",
+      "bicicleta",
+      "urbano",
+      "led"
+    ]
+  },
+  {
+    "name": "Kit de Limpieza para Teclado",
+    "description": "Incluye soplador, cepillo y gel de limpieza.",
+    "image": "https://picsum.photos/id/41/200/300",
+    "price": 14.99,
+    "categories": [
+      "Electrónica",
+      "Accesorios"
+    ],
+    "keywords": [
+      "limpieza",
+      "teclado",
+      "kit",
+      "soplador"
+    ]
+  },
+  {
+    "name": "Toalla de Playa Gigante",
+    "description": "Medidas 180x90cm, microfibra, estampado tropical.",
+    "image": "https://picsum.photos/id/42/200/300",
+    "price": 18.99,
+    "categories": [
+      "Hogar",
+      "Verano"
+    ],
+    "keywords": [
+      "toalla",
+      "playa",
+      "gigante",
+      "microfibra"
+    ]
+  },
+  {
+    "name": "Cargador USB C 65W GaN",
+    "description": "Cargador compacto con 2 puertos USB-C, compatible con laptops.",
+    "image": "https://picsum.photos/id/43/200/300",
+    "price": 44.99,
+    "categories": [
+      "Electrónica",
+      "Accesorios"
+    ],
+    "keywords": [
+      "cargador",
+      "usb c",
+      "65w",
+      "gan"
+    ]
+  },
+  {
+    "name": "Jarrón Decorativo Cerámica",
+    "description": "Jarrón minimalista de 25cm, acabado mate, ideal para flores secas.",
+    "image": "https://picsum.photos/id/44/200/300",
+    "price": 29.99,
+    "categories": [
+      "Hogar",
+      "Decoración"
+    ],
+    "keywords": [
+      "jarrón",
+      "cerámica",
+      "decorativo",
+      "minimalista"
+    ]
+  },
+  {
+    "name": "Guantes de Boxeo Profesionales",
+    "description": "Guantes de cuero sintético, peso 12oz, espuma de alta densidad.",
+    "image": "https://picsum.photos/id/45/200/300",
+    "price": 59.99,
+    "categories": [
+      "Deportes",
+      "Boxeo"
+    ],
+    "keywords": [
+      "guantes",
+      "boxeo",
+      "12oz",
+      "profesionales"
+    ]
+  },
+  {
+    "name": "Manta Polar Suave",
+    "description": "Manta de microfibra, 150x200cm, ideal para sofá o cama.",
+    "image": "https://picsum.photos/id/46/200/300",
+    "price": 24.99,
+    "categories": [
+      "Hogar",
+      "Textiles"
+    ],
+    "keywords": [
+      "manta",
+      "polar",
+      "suave",
+      "caliente"
+    ]
+  },
+  {
+    "name": "Kit de Reparación de Móviles",
+    "description": "49 herramientas, incluye ventosas, destornilladores y púas.",
+    "image": "https://picsum.photos/id/47/200/300",
+    "price": 19.99,
+    "categories": [
+      "Herramientas",
+      "Electrónica"
+    ],
+    "keywords": [
+      "reparación",
+      "móviles",
+      "kit",
+      "herramientas"
+    ]
+  },
+  {
+    "name": "Pendientes de Plata 925",
+    "description": "Pendientes de aro con circonita, acabado brillante.",
+    "image": "https://picsum.photos/id/48/200/300",
+    "price": 34.99,
+    "categories": [
+      "Moda",
+      "Joyas"
+    ],
+    "keywords": [
+      "pendientes",
+      "plata 925",
+      "aros",
+      "mujer"
+    ]
+  },
+  {
+    "name": "Termómetro Digital Cocina",
+    "description": "Termómetro de sonda con pantalla LCD, rango -50 a +300°C.",
+    "image": "https://picsum.photos/id/49/200/300",
+    "price": 15.99,
+    "categories": [
+      "Hogar",
+      "Cocina"
+    ],
+    "keywords": [
+      "termómetro",
+      "cocina",
+      "digital",
+      "sonda"
+    ]
+  }
+]

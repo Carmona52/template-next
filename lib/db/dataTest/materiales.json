@@ -1,0 +1,802 @@
+[
+  {
+    "name": "Cemento Portland Gris 50kg",
+    "description": "Cemento de alta resistencia para obras de albañilería y hormigón. Saco de 50kg.",
+    "image": "https://picsum.photos/id/100/200/300",
+    "price": 8.99,
+    "categories": [
+      "Materiales de construcción",
+      "Cemento"
+    ],
+    "keywords": [
+      "cemento",
+      "portland",
+      "50kg",
+      "hormigón"
+    ]
+  },
+  {
+    "name": "Ladrillo Hueco 12x18x33",
+    "description": "Ladrillo cerámico hueco para muros de carga, medidas 12x18x33 cm.",
+    "image": "https://picsum.photos/id/101/200/300",
+    "price": 0.45,
+    "categories": [
+      "Materiales de construcción",
+      "Ladrillos"
+    ],
+    "keywords": [
+      "ladrillo",
+      "hueco",
+      "cerámico",
+      "muro"
+    ]
+  },
+  {
+    "name": "Varilla de Acero Corrugado 3/8",
+    "description": "Varilla de acero para refuerzo de concreto, longitud 6 metros, diámetro 3/8 pulgada.",
+    "image": "https://picsum.photos/id/102/200/300",
+    "price": 12.50,
+    "categories": [
+      "Materiales de construcción",
+      "Acero"
+    ],
+    "keywords": [
+      "varilla",
+      "acero",
+      "corrugado",
+      "3/8"
+    ]
+  },
+  {
+    "name": "Pintura Vinílica Blanca 4L",
+    "description": "Pintura de interior/exterior, acabado mate, cubriente, 4 litros.",
+    "image": "https://picsum.photos/id/103/200/300",
+    "price": 28.99,
+    "categories": [
+      "Pinturas",
+      "Acabados"
+    ],
+    "keywords": [
+      "pintura",
+      "vinílica",
+      "blanca",
+      "4l"
+    ]
+  },
+  {
+    "name": "Placa de Yeso 120x240cm",
+    "description": "Panel de yeso laminado para tabiques falsos, espesor 12.5mm.",
+    "image": "https://picsum.photos/id/104/200/300",
+    "price": 15.75,
+    "categories": [
+      "Materiales de construcción",
+      "Yeso"
+    ],
+    "keywords": [
+      "placa",
+      "yeso",
+      "tablaroca",
+      "120x240"
+    ]
+  },
+  {
+    "name": "Azulejo Cerámico 30x30cm",
+    "description": "Azulejo esmaltado para pisos o paredes, color beige, caja con 1.08m².",
+    "image": "https://picsum.photos/id/105/200/300",
+    "price": 12.99,
+    "categories": [
+      "Acabados",
+      "Pisos"
+    ],
+    "keywords": [
+      "azulejo",
+      "cerámico",
+      "30x30",
+      "piso"
+    ]
+  },
+  {
+    "name": "Madera Pino 2x4 pulgadas",
+    "description": "Listón de madera natural de pino, cepillado, largo 3.2 metros.",
+    "image": "https://picsum.photos/id/106/200/300",
+    "price": 5.49,
+    "categories": [
+      "Madera",
+      "Materiales de construcción"
+    ],
+    "keywords": [
+      "madera",
+      "pino",
+      "2x4",
+      "listón"
+    ]
+  },
+  {
+    "name": "Tubo PVC 4 pulgadas x 3m",
+    "description": "Tubo de PVC hidráulico para drenaje, diámetro 4 pulgadas, largo 3 metros.",
+    "image": "https://picsum.photos/id/107/200/300",
+    "price": 9.25,
+    "categories": [
+      "Plomería",
+      "Materiales de construcción"
+    ],
+    "keywords": [
+      "tubo",
+      "pvc",
+      "4 pulgadas",
+      "drenaje"
+    ]
+  },
+  {
+    "name": "Grava Triturada 1/2",
+    "description": "Grava de río triturada para concreto y drenaje, saco de 40kg.",
+    "image": "https://picsum.photos/id/108/200/300",
+    "price": 4.99,
+    "categories": [
+      "Materiales de construcción",
+      "Áridos"
+    ],
+    "keywords": [
+      "grava",
+      "triturada",
+      "1/2",
+      "concreto"
+    ]
+  },
+  {
+    "name": "Arena Fina de Río 40kg",
+    "description": "Arena lavada y tamizada para mortero y revoques, saco de 40kg.",
+    "image": "https://picsum.photos/id/109/200/300",
+    "price": 3.75,
+    "categories": [
+      "Materiales de construcción",
+      "Áridos"
+    ],
+    "keywords": [
+      "arena",
+      "fina",
+      "río",
+      "mortero"
+    ]
+  },
+  {
+    "name": "Clavos 2.5 pulgadas 1kg",
+    "description": "Clavos de acero para carpintería y construcción, caja de 1kg.",
+    "image": "https://picsum.photos/id/110/200/300",
+    "price": 4.50,
+    "categories": [
+      "Ferretería",
+      "Materiales de construcción"
+    ],
+    "keywords": [
+      "clavos",
+      "2.5",
+      "acero",
+      "carpintería"
+    ]
+  },
+  {
+    "name": "Espátula de Acero 10cm",
+    "description": "Espátula flexible para aplicar yeso o cemento, mango de madera.",
+    "image": "https://picsum.photos/id/111/200/300",
+    "price": 5.99,
+    "categories": [
+      "Herramientas",
+      "Construcción"
+    ],
+    "keywords": [
+      "espátula",
+      "acero",
+      "10cm",
+      "yeso"
+    ]
+  },
+  {
+    "name": "Taladro Percutor 650W",
+    "description": "Taladro eléctrico con función percutor, velocidad variable, maletín incluido.",
+    "image": "https://picsum.photos/id/112/200/300",
+    "price": 59.99,
+    "categories": [
+      "Herramientas",
+      "Electroherramientas"
+    ],
+    "keywords": [
+      "taladro",
+      "percutor",
+      "650w",
+      "eléctrico"
+    ]
+  },
+  {
+    "name": "Flexómetro 5m",
+    "description": "Cinta métrica de 5 metros, doble escala cm/pulgadas, carcasa resistente.",
+    "image": "https://picsum.photos/id/113/200/300",
+    "price": 6.50,
+    "categories": [
+      "Herramientas",
+      "Medición"
+    ],
+    "keywords": [
+      "flexómetro",
+      "5m",
+      "cinta métrica",
+      "medición"
+    ]
+  },
+  {
+    "name": "Nivel de Burbuja 60cm",
+    "description": "Nivel de aluminio con 3 burbujas (horizontal, vertical y 45°), precisión ±0.5mm/m.",
+    "image": "https://picsum.photos/id/114/200/300",
+    "price": 12.90,
+    "categories": [
+      "Herramientas",
+      "Medición"
+    ],
+    "keywords": [
+      "nivel",
+      "burbuja",
+      "60cm",
+      "aluminio"
+    ]
+  },
+  {
+    "name": "Cinta Aislante Negra",
+    "description": "Cinta vinílica para aislar cables eléctricos, resistente al calor, 19mm x 10m.",
+    "image": "https://picsum.photos/id/115/200/300",
+    "price": 1.99,
+    "categories": [
+      "Eléctricos",
+      "Ferretería"
+    ],
+    "keywords": [
+      "cinta",
+      "aislante",
+      "vinílica",
+      "eléctrica"
+    ]
+  },
+  {
+    "name": "Interruptor Sencillo 10A",
+    "description": "Interruptor de pared tipo palanca, 10 amperios, blanco.",
+    "image": "https://picsum.photos/id/116/200/300",
+    "price": 2.49,
+    "categories": [
+      "Eléctricos",
+      "Accesorios"
+    ],
+    "keywords": [
+      "interruptor",
+      "sencillo",
+      "10a",
+      "palanca"
+    ]
+  },
+  {
+    "name": "Lámpara LED 15W",
+    "description": "Lámpara LED de alto flujo luminoso (1500 lúmenes), base E27, luz fría 6500K.",
+    "image": "https://picsum.photos/id/117/200/300",
+    "price": 4.99,
+    "categories": [
+      "Eléctricos",
+      "Iluminación"
+    ],
+    "keywords": [
+      "lámpara",
+      "led",
+      "15w",
+      "e27"
+    ]
+  },
+  {
+    "name": "Cemento Adhesivo para Azulejos 25kg",
+    "description": "Adhesivo para fijar cerámica y porcelanato, uso interior/exterior.",
+    "image": "https://picsum.photos/id/118/200/300",
+    "price": 14.50,
+    "categories": [
+      "Adhesivos",
+      "Materiales de construcción"
+    ],
+    "keywords": [
+      "pegamento",
+      "azulejos",
+      "cerámica",
+      "25kg"
+    ]
+  },
+  {
+    "name": "Rodillo para Pintura 23cm",
+    "description": "Rodillo de espuma para pintura lisa, incluye mango y bandeja.",
+    "image": "https://picsum.photos/id/119/200/300",
+    "price": 7.99,
+    "categories": [
+      "Pinturas",
+      "Herramientas"
+    ],
+    "keywords": [
+      "rodillo",
+      "pintura",
+      "23cm",
+      "espuma"
+    ]
+  },
+  {
+    "name": "Cubeta para Pintura 14L",
+    "description": "Cubeta plástica con rejilla escurridora y asa, capacidad 14 litros.",
+    "image": "https://picsum.photos/id/120/200/300",
+    "price": 9.99,
+    "categories": [
+      "Pinturas",
+      "Herramientas"
+    ],
+    "keywords": [
+      "cubeta",
+      "pintura",
+      "14l",
+      "rejilla"
+    ]
+  },
+  {
+    "name": "Tubo de Cobre 1/2 x 3m",
+    "description": "Tubería de cobre rígido para instalaciones de agua o gas, diámetro 1/2 pulgada.",
+    "image": "https://picsum.photos/id/121/200/300",
+    "price": 18.75,
+    "categories": [
+      "Plomería",
+      "Materiales de construcción"
+    ],
+    "keywords": [
+      "tubo",
+      "cobre",
+      "1/2",
+      "agua"
+    ]
+  },
+  {
+    "name": "Llave de Paso Angular 1/2",
+    "description": "Válvula de bola para control de flujo de agua, conexión angular, 1/2 pulgada.",
+    "image": "https://picsum.photos/id/122/200/300",
+    "price": 7.25,
+    "categories": [
+      "Plomería",
+      "Accesorios"
+    ],
+    "keywords": [
+      "llave",
+      "paso",
+      "angular",
+      "válvula"
+    ]
+  },
+  {
+    "name": "Bloque de Concreto 20x20x40",
+    "description": "Bloque hueco de concreto para muros, medidas 20x20x40 cm.",
+    "image": "https://picsum.photos/id/123/200/300",
+    "price": 1.25,
+    "categories": [
+      "Materiales de construcción",
+      "Bloques"
+    ],
+    "keywords": [
+      "bloque",
+      "concreto",
+      "20x20x40",
+      "muro"
+    ]
+  },
+  {
+    "name": "Malla Electrosoldada 5x5mm",
+    "description": "Malla de acero para refuerzo de losas, cuadrícula 15x15cm, rollo 2x10m.",
+    "image": "https://picsum.photos/id/124/200/300",
+    "price": 35.90,
+    "categories": [
+      "Acero",
+      "Materiales de construcción"
+    ],
+    "keywords": [
+      "malla",
+      "electrosoldada",
+      "acero",
+      "refuerzo"
+    ]
+  },
+  {
+    "name": "Estuco Acrílico 20kg",
+    "description": "Estuco texturizado para fachadas, acabado fino, impermeable.",
+    "image": "https://picsum.photos/id/125/200/300",
+    "price": 22.99,
+    "categories": [
+      "Acabados",
+      "Pinturas"
+    ],
+    "keywords": [
+      "estuco",
+      "acrílico",
+      "texturizado",
+      "fachada"
+    ]
+  },
+  {
+    "name": "Sellador de Silicón Transparente",
+    "description": "Sellador de silicona para juntas de baño y cocina, cartucho 280ml, resistente a hongos.",
+    "image": "https://picsum.photos/id/126/200/300",
+    "price": 3.99,
+    "categories": [
+      "Adhesivos",
+      "Acabados"
+    ],
+    "keywords": [
+      "silicón",
+      "sellador",
+      "transparente",
+      "juntas"
+    ]
+  },
+  {
+    "name": "Pala Rectangular",
+    "description": "Pala de acero para mezclar cemento y arena, mango de madera.",
+    "image": "https://picsum.photos/id/127/200/300",
+    "price": 11.50,
+    "categories": [
+      "Herramientas",
+      "Construcción"
+    ],
+    "keywords": [
+      "pala",
+      "rectangular",
+      "acero",
+      "mezcla"
+    ]
+  },
+  {
+    "name": "Carretilla 100L",
+    "description": "Carretilla de construcción con rueda neumática, capacidad 100 litros, estructura metálica.",
+    "image": "https://picsum.photos/id/128/200/300",
+    "price": 49.99,
+    "categories": [
+      "Herramientas",
+      "Construcción"
+    ],
+    "keywords": [
+      "carretilla",
+      "100l",
+      "neumática",
+      "obra"
+    ]
+  },
+  {
+    "name": "Viga de Acero IPN 120",
+    "description": "Viga de acero perfil IPN 120 (altura 120mm), longitud 6 metros.",
+    "image": "https://picsum.photos/id/129/200/300",
+    "price": 98.50,
+    "categories": [
+      "Acero",
+      "Estructuras"
+    ],
+    "keywords": [
+      "viga",
+      "acero",
+      "ipn120",
+      "estructura"
+    ]
+  },
+  {
+    "name": "Lámina Galvanizada 0.5mm",
+    "description": "Lámina de acero galvanizado corrugado para techos, 1.2x2.4m.",
+    "image": "https://picsum.photos/id/130/200/300",
+    "price": 22.75,
+    "categories": [
+      "Techos",
+      "Materiales de construcción"
+    ],
+    "keywords": [
+      "lámina",
+      "galvanizada",
+      "techo",
+      "corrugado"
+    ]
+  },
+  {
+    "name": "Impermeabilizante Acrílico 19L",
+    "description": "Impermeabilizante blanco para azoteas, base acrílica, resistente a rayos UV.",
+    "image": "https://picsum.photos/id/131/200/300",
+    "price": 45.99,
+    "categories": [
+      "Impermeabilizantes",
+      "Acabados"
+    ],
+    "keywords": [
+      "impermeabilizante",
+      "acrílico",
+      "azotea",
+      "19l"
+    ]
+  },
+  {
+    "name": "Cincel Plano 20cm",
+    "description": "Cincel de acero para demolición, mango ergonómico, ancho de boca 25mm.",
+    "image": "https://picsum.photos/id/132/200/300",
+    "price": 8.49,
+    "categories": [
+      "Herramientas",
+      "Construcción"
+    ],
+    "keywords": [
+      "cincel",
+      "plano",
+      "demolición",
+      "acero"
+    ]
+  },
+  {
+    "name": "Martillo de Uña 450g",
+    "description": "Martillo con cabeza de acero y mango de fibra de vidrio, peso 450 gramos.",
+    "image": "https://picsum.photos/id/133/200/300",
+    "price": 10.99,
+    "categories": [
+      "Herramientas",
+      "Ferretería"
+    ],
+    "keywords": [
+      "martillo",
+      "uña",
+      "450g",
+      "fibra"
+    ]
+  },
+  {
+    "name": "Tornillos para Drywall 1kg",
+    "description": "Tornillos autoperforantes para fijación de placa de yeso, medidas 1.5 pulgadas.",
+    "image": "https://picsum.photos/id/134/200/300",
+    "price": 6.25,
+    "categories": [
+      "Ferretería",
+      "Acabados"
+    ],
+    "keywords": [
+      "tornillos",
+      "drywall",
+      "autoperforantes",
+      "1kg"
+    ]
+  },
+  {
+    "name": "Extensión Eléctrica 10m",
+    "description": "Regleta con alargador de 10 metros, 3 tomas, 10 amperios.",
+    "image": "https://picsum.photos/id/135/200/300",
+    "price": 14.99,
+    "categories": [
+      "Eléctricos",
+      "Accesorios"
+    ],
+    "keywords": [
+      "extensión",
+      "10m",
+      "regleta",
+      "eléctrica"
+    ]
+  },
+  {
+    "name": "Caja de Herramientas 15\"",
+    "description": "Caja metálica portaherramientas con compartimentos removibles, 15 pulgadas.",
+    "image": "https://picsum.photos/id/136/200/300",
+    "price": 27.90,
+    "categories": [
+      "Herramientas",
+      "Almacenamiento"
+    ],
+    "keywords": [
+      "caja",
+      "herramientas",
+      "15 pulgadas",
+      "metálica"
+    ]
+  },
+  {
+    "name": "Guantes de Construcción",
+    "description": "Guantes de carnaza reforzada con puño elástico, talla M, protección mecánica.",
+    "image": "https://picsum.photos/id/137/200/300",
+    "price": 5.49,
+    "categories": [
+      "Equipo de protección",
+      "Construcción"
+    ],
+    "keywords": [
+      "guantes",
+      "construcción",
+      "carnaza",
+      "protección"
+    ]
+  },
+  {
+    "name": "Casco de Seguridad",
+    "description": "Casco dieléctrico para obra, ajuste de talla, color blanco, certificado ANSI.",
+    "image": "https://picsum.photos/id/138/200/300",
+    "price": 12.99,
+    "categories": [
+      "Equipo de protección",
+      "Seguridad"
+    ],
+    "keywords": [
+      "casco",
+      "seguridad",
+      "dieléctrico",
+      "obra"
+    ]
+  },
+  {
+    "name": "Mascarilla N95 para Polvo",
+    "description": "Respirador desechable N95 para filtrar polvo de obras, paquete de 5 unidades.",
+    "image": "https://picsum.photos/id/139/200/300",
+    "price": 9.99,
+    "categories": [
+      "Equipo de protección",
+      "Salud"
+    ],
+    "keywords": [
+      "mascarilla",
+      "n95",
+      "polvo",
+      "desechable"
+    ]
+  },
+  {
+    "name": "Andamio Plegable 2.5m",
+    "description": "Andamio de aluminio con plataforma antideslizante, altura máxima 2.5 metros.",
+    "image": "https://picsum.photos/id/140/200/300",
+    "price": 189.99,
+    "categories": [
+      "Andamios",
+      "Herramientas"
+    ],
+    "keywords": [
+      "andamio",
+      "plegable",
+      "aluminio",
+      "2.5m"
+    ]
+  },
+  {
+    "name": "Mezcladora de Cemento 220V",
+    "description": "Mezcladora eléctrica de 1/2 HP, capacidad 120 litros, ruedas para transporte.",
+    "image": "https://picsum.photos/id/141/200/300",
+    "price": 249.99,
+    "categories": [
+      "Maquinaria",
+      "Construcción"
+    ],
+    "keywords": [
+      "mezcladora",
+      "cemento",
+      "eléctrica",
+      "120l"
+    ]
+  },
+  {
+    "name": "Cizalla para Azulejos 60cm",
+    "description": "Cortador manual de cerámica, corte máximo 60cm, carro con rueda de carburo.",
+    "image": "https://picsum.photos/id/142/200/300",
+    "price": 34.99,
+    "categories": [
+      "Herramientas",
+      "Acabados"
+    ],
+    "keywords": [
+      "cizalla",
+      "azulejos",
+      "cortador",
+      "cerámica"
+    ]
+  },
+  {
+    "name": "Plomada de Albañil",
+    "description": "Plomada de latón con hilo de nailon y carrete, peso 300g.",
+    "image": "https://picsum.photos/id/143/200/300",
+    "price": 7.25,
+    "categories": [
+      "Herramientas",
+      "Medición"
+    ],
+    "keywords": [
+      "plomada",
+      "albañil",
+      "latón",
+      "vertical"
+    ]
+  },
+  {
+    "name": "Cepillo de Acero",
+    "description": "Cepillo metálico con mango de madera para limpiar óxido o concreto.",
+    "image": "https://picsum.photos/id/144/200/300",
+    "price": 4.49,
+    "categories": [
+      "Herramientas",
+      "Limpieza"
+    ],
+    "keywords": [
+      "cepillo",
+      "acero",
+      "óxido",
+      "concreto"
+    ]
+  },
+  {
+    "name": "Lijas para Madera surtidas",
+    "description": "Pack de 10 lijas de grano 80, 120, 240, medidas 280x230mm.",
+    "image": "https://picsum.photos/id/145/200/300",
+    "price": 6.99,
+    "categories": [
+      "Acabados",
+      "Herramientas"
+    ],
+    "keywords": [
+      "lijas",
+      "madera",
+      "grano",
+      "surtidas"
+    ]
+  },
+  {
+    "name": "Cal Hidratada 20kg",
+    "description": "Cal apagada para morteros y blanqueo de paredes, saco de 20kg.",
+    "image": "https://picsum.photos/id/146/200/300",
+    "price": 9.50,
+    "categories": [
+      "Materiales de construcción",
+      "Cal"
+    ],
+    "keywords": [
+      "cal",
+      "hidratada",
+      "mortero",
+      "20kg"
+    ]
+  },
+  {
+    "name": "Yeso de Construcción 25kg",
+    "description": "Yeso blanco para pasta y molduras, fraguado rápido, saco 25kg.",
+    "image": "https://picsum.photos/id/147/200/300",
+    "price": 13.25,
+    "categories": [
+      "Materiales de construcción",
+      "Yeso"
+    ],
+    "keywords": [
+      "yeso",
+      "construcción",
+      "25kg",
+      "fraguado"
+    ]
+  },
+  {
+    "name": "Filtro para Agua de 10\"",
+    "description": "Filtro de sedimentos para tubería de agua, cartucho de polipropileno de 10 pulgadas.",
+    "image": "https://picsum.photos/id/148/200/300",
+    "price": 8.99,
+    "categories": [
+      "Plomería",
+      "Filtración"
+    ],
+    "keywords": [
+      "filtro",
+      "agua",
+      "10 pulgadas",
+      "sedimentos"
+    ]
+  },
+  {
+    "name": "Tinaco Rotoplas 450L",
+    "description": "Tinaco de polietileno para almacenar agua, capacidad 450 litros, color azul.",
+    "image": "https://picsum.photos/id/149/200/300",
+    "price": 119.99,
+    "categories": [
+      "Plomería",
+      "Almacenamiento"
+    ],
+    "keywords": [
+      "tinaco",
+      "450l",
+      "rotoplas",
+      "agua"
+    ]
+  }
+]
