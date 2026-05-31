@@ -1,0 +1,580 @@
+[
+    {
+        "id": "ord-001",
+        "orderNumber": "ORD-2025-0001",
+        "customerId": "c1",
+        "items": [
+            {
+                "productId": "p001",
+                "productName": "Cemento Portland Gris 50kg",
+                "quantity": 5,
+                "unitPrice": 8.99,
+                "subtotal": 44.95
+            },
+            {
+                "productId": "p002",
+                "productName": "Ladrillo Hueco 12x18x33",
+                "quantity": 100,
+                "unitPrice": 0.45,
+                "subtotal": 45.00
+            }
+        ],
+        "totalAmount": 104.79,
+        "tax": 14.84,
+        "discount": null,
+        "status": "delivered",
+        "paymentMethod": "credit_card",
+        "paymentStatus": "paid",
+        "notes": "Dejar en el portero automático",
+        "createdAt": "2025-01-10T09:23:00Z",
+        "updatedAt": "2025-01-12T14:30:00Z",
+        "deliveredAt": "2025-01-12T14:30:00Z"
+    },
+    {
+        "id": "ord-002",
+        "orderNumber": "ORD-2025-0002",
+        "customerId": "c2",
+        "items": [
+            {
+                "productId": "p003",
+                "productName": "Varilla de Acero Corrugado 3/8",
+                "quantity": 20,
+                "unitPrice": 12.50,
+                "subtotal": 250.00
+            },
+            {
+                "productId": "p004",
+                "productName": "Pintura Vinílica Blanca 4L",
+                "quantity": 3,
+                "unitPrice": 28.99,
+                "subtotal": 86.97
+            }
+        ],
+        "totalAmount": 390.00,
+        "tax": 48.10,
+        "discount": 5.00,
+        "status": "shipped",
+        "paymentMethod": "transfer",
+        "paymentStatus": "paid",
+        "notes": "Empresa constructora, factura requerida",
+        "createdAt": "2025-01-15T11:45:00Z",
+        "updatedAt": "2025-01-17T09:00:00Z",
+        "deliveredAt": null
+    },
+    {
+        "id": "ord-003",
+        "orderNumber": "ORD-2025-0003",
+        "customerId": "c3",
+        "items": [
+            {
+                "productId": "p005",
+                "productName": "Placa de Yeso 120x240cm",
+                "quantity": 10,
+                "unitPrice": 15.75,
+                "subtotal": 157.50
+            }
+        ],
+        "totalAmount": 182.70,
+        "tax": 25.20,
+        "discount": null,
+        "status": "pending",
+        "paymentMethod": "cash",
+        "paymentStatus": "pending",
+        "notes": "Llamar antes de entregar",
+        "createdAt": "2025-02-01T08:15:00Z",
+        "updatedAt": "2025-02-01T08:15:00Z",
+        "deliveredAt": null
+    },
+    {
+        "id": "ord-004",
+        "orderNumber": "ORD-2025-0004",
+        "customerId": "c4",
+        "items": [
+            {
+                "productId": "p006",
+                "productName": "Azulejo Cerámico 30x30cm",
+                "quantity": 4,
+                "unitPrice": 12.99,
+                "subtotal": 51.96
+            },
+            {
+                "productId": "p007",
+                "productName": "Madera Pino 2x4 pulgadas",
+                "quantity": 15,
+                "unitPrice": 5.49,
+                "subtotal": 82.35
+            }
+        ],
+        "totalAmount": 155.72,
+        "tax": 21.48,
+        "discount": null,
+        "status": "confirmed",
+        "paymentMethod": "credit_card",
+        "paymentStatus": "paid",
+        "notes": null,
+        "createdAt": "2025-02-05T14:20:00Z",
+        "updatedAt": "2025-02-06T10:00:00Z",
+        "deliveredAt": null
+    },
+    {
+        "id": "ord-005",
+        "orderNumber": "ORD-2025-0005",
+        "customerId": "c5",
+        "items": [
+            {
+                "productId": "p008",
+                "productName": "Tubo PVC 4 pulgadas x 3m",
+                "quantity": 6,
+                "unitPrice": 9.25,
+                "subtotal": 55.50
+            },
+            {
+                "productId": "p009",
+                "productName": "Grava Triturada 1/2",
+                "quantity": 2,
+                "unitPrice": 4.99,
+                "subtotal": 9.98
+            }
+        ],
+        "totalAmount": 76.45,
+        "tax": 10.55,
+        "discount": 2.00,
+        "status": "delivered",
+        "paymentMethod": "paypal",
+        "paymentStatus": "paid",
+        "notes": "Entregar antes de las 18h",
+        "createdAt": "2025-02-10T10:30:00Z",
+        "updatedAt": "2025-02-12T16:45:00Z",
+        "deliveredAt": "2025-02-12T16:45:00Z"
+    },
+    {
+        "id": "ord-006",
+        "orderNumber": "ORD-2025-0006",
+        "customerId": "c6",
+        "items": [
+            {
+                "productId": "p010",
+                "productName": "Arena Fina de Río 40kg",
+                "quantity": 8,
+                "unitPrice": 3.75,
+                "subtotal": 30.00
+            },
+            {
+                "productId": "p011",
+                "productName": "Clavos 2.5 pulgadas 1kg",
+                "quantity": 3,
+                "unitPrice": 4.50,
+                "subtotal": 13.50
+            },
+            {
+                "productId": "p012",
+                "productName": "Espátula de Acero 10cm",
+                "quantity": 2,
+                "unitPrice": 5.99,
+                "subtotal": 11.98
+            }
+        ],
+        "totalAmount": 64.58,
+        "tax": 8.91,
+        "discount": null,
+        "status": "cancelled",
+        "paymentMethod": "cash",
+        "paymentStatus": "refunded",
+        "notes": "Cliente canceló por cambio de fechas",
+        "createdAt": "2025-02-18T09:10:00Z",
+        "updatedAt": "2025-02-19T11:00:00Z",
+        "deliveredAt": null
+    },
+    {
+        "id": "ord-007",
+        "orderNumber": "ORD-2025-0007",
+        "customerId": "c7",
+        "items": [
+            {
+                "productId": "p013",
+                "productName": "Taladro Percutor 650W",
+                "quantity": 1,
+                "unitPrice": 59.99,
+                "subtotal": 59.99
+            },
+            {
+                "productId": "p014",
+                "productName": "Flexómetro 5m",
+                "quantity": 2,
+                "unitPrice": 6.50,
+                "subtotal": 13.00
+            }
+        ],
+        "totalAmount": 84.67,
+        "tax": 11.68,
+        "discount": null,
+        "status": "shipped",
+        "paymentMethod": "debit_card",
+        "paymentStatus": "paid",
+        "notes": "Enviar a domicilio particular",
+        "createdAt": "2025-02-20T15:40:00Z",
+        "updatedAt": "2025-02-22T08:30:00Z",
+        "deliveredAt": null
+    },
+    {
+        "id": "ord-008",
+        "orderNumber": "ORD-2025-0008",
+        "customerId": "c8",
+        "items": [
+            {
+                "productId": "p015",
+                "productName": "Nivel de Burbuja 60cm",
+                "quantity": 1,
+                "unitPrice": 12.90,
+                "subtotal": 12.90
+            }
+        ],
+        "totalAmount": 14.96,
+        "tax": 2.06,
+        "discount": null,
+        "status": "delivered",
+        "paymentMethod": "credit_card",
+        "paymentStatus": "paid",
+        "notes": "Cliente habitual",
+        "createdAt": "2025-03-01T12:00:00Z",
+        "updatedAt": "2025-03-02T09:15:00Z",
+        "deliveredAt": "2025-03-02T09:15:00Z"
+    },
+    {
+        "id": "ord-009",
+        "orderNumber": "ORD-2025-0009",
+        "customerId": "c9",
+        "items": [
+            {
+                "productId": "p016",
+                "productName": "Cinta Aislante Negra",
+                "quantity": 10,
+                "unitPrice": 1.99,
+                "subtotal": 19.90
+            },
+            {
+                "productId": "p017",
+                "productName": "Interruptor Sencillo 10A",
+                "quantity": 5,
+                "unitPrice": 2.49,
+                "subtotal": 12.45
+            }
+        ],
+        "totalAmount": 37.80,
+        "tax": 5.22,
+        "discount": null,
+        "status": "preparing",
+        "paymentMethod": "transfer",
+        "paymentStatus": "pending",
+        "notes": "Pendiente de confirmación de pago",
+        "createdAt": "2025-03-05T16:20:00Z",
+        "updatedAt": "2025-03-06T10:30:00Z",
+        "deliveredAt": null
+    },
+    {
+        "id": "ord-010",
+        "orderNumber": "ORD-2025-0010",
+        "customerId": "c10",
+        "items": [
+            {
+                "productId": "p018",
+                "productName": "Lámpara LED 15W",
+                "quantity": 12,
+                "unitPrice": 4.99,
+                "subtotal": 59.88
+            }
+        ],
+        "totalAmount": 69.46,
+        "tax": 9.58,
+        "discount": null,
+        "status": "confirmed",
+        "paymentMethod": "paypal",
+        "paymentStatus": "paid",
+        "notes": null,
+        "createdAt": "2025-03-08T11:05:00Z",
+        "updatedAt": "2025-03-09T14:40:00Z",
+        "deliveredAt": null
+    },
+    {
+        "id": "ord-011",
+        "orderNumber": "ORD-2025-0011",
+        "customerId": "c1",
+        "items": [
+            {
+                "productId": "p019",
+                "productName": "Cemento Adhesivo para Azulejos 25kg",
+                "quantity": 3,
+                "unitPrice": 14.50,
+                "subtotal": 43.50
+            },
+            {
+                "productId": "p020",
+                "productName": "Rodillo para Pintura 23cm",
+                "quantity": 2,
+                "unitPrice": 7.99,
+                "subtotal": 15.98
+            }
+        ],
+        "totalAmount": 69.00,
+        "tax": 9.52,
+        "discount": null,
+        "status": "delivered",
+        "paymentMethod": "cash",
+        "paymentStatus": "paid",
+        "notes": "Entregado en obra",
+        "createdAt": "2025-03-10T09:45:00Z",
+        "updatedAt": "2025-03-12T17:20:00Z",
+        "deliveredAt": "2025-03-12T17:20:00Z"
+    },
+    {
+        "id": "ord-012",
+        "orderNumber": "ORD-2025-0012",
+        "customerId": "c2",
+        "items": [
+            {
+                "productId": "p021",
+                "productName": "Cubeta para Pintura 14L",
+                "quantity": 4,
+                "unitPrice": 9.99,
+                "subtotal": 39.96
+            },
+            {
+                "productId": "p022",
+                "productName": "Tubo de Cobre 1/2 x 3m",
+                "quantity": 5,
+                "unitPrice": 18.75,
+                "subtotal": 93.75
+            }
+        ],
+        "totalAmount": 155.06,
+        "tax": 21.39,
+        "discount": 5.00,
+        "status": "shipped",
+        "paymentMethod": "credit_card",
+        "paymentStatus": "paid",
+        "notes": "Requiere factura con IVA desglosado",
+        "createdAt": "2025-03-15T13:30:00Z",
+        "updatedAt": "2025-03-17T08:15:00Z",
+        "deliveredAt": null
+    },
+    {
+        "id": "ord-013",
+        "orderNumber": "ORD-2025-0013",
+        "customerId": "c3",
+        "items": [
+            {
+                "productId": "p023",
+                "productName": "Llave de Paso Angular 1/2",
+                "quantity": 6,
+                "unitPrice": 7.25,
+                "subtotal": 43.50
+            }
+        ],
+        "totalAmount": 50.46,
+        "tax": 6.96,
+        "discount": null,
+        "status": "pending",
+        "paymentMethod": "debit_card",
+        "paymentStatus": "pending",
+        "notes": "Pago pendiente por error en la pasarela",
+        "createdAt": "2025-03-20T10:00:00Z",
+        "updatedAt": "2025-03-20T10:00:00Z",
+        "deliveredAt": null
+    },
+    {
+        "id": "ord-014",
+        "orderNumber": "ORD-2025-0014",
+        "customerId": "c4",
+        "items": [
+            {
+                "productId": "p024",
+                "productName": "Bloque de Concreto 20x20x40",
+                "quantity": 50,
+                "unitPrice": 1.25,
+                "subtotal": 62.50
+            },
+            {
+                "productId": "p025",
+                "productName": "Malla Electrosoldada 5x5mm",
+                "quantity": 1,
+                "unitPrice": 35.90,
+                "subtotal": 35.90
+            }
+        ],
+        "totalAmount": 114.00,
+        "tax": 15.73,
+        "discount": null,
+        "status": "confirmed",
+        "paymentMethod": "transfer",
+        "paymentStatus": "paid",
+        "notes": null,
+        "createdAt": "2025-03-25T14:50:00Z",
+        "updatedAt": "2025-03-26T09:30:00Z",
+        "deliveredAt": null
+    },
+    {
+        "id": "ord-015",
+        "orderNumber": "ORD-2025-0015",
+        "customerId": "c5",
+        "items": [
+            {
+                "productId": "p026",
+                "productName": "Estuco Acrílico 20kg",
+                "quantity": 2,
+                "unitPrice": 22.99,
+                "subtotal": 45.98
+            }
+        ],
+        "totalAmount": 53.34,
+        "tax": 7.36,
+        "discount": null,
+        "status": "cancelled",
+        "paymentMethod": "credit_card",
+        "paymentStatus": "refunded",
+        "notes": "Cambio de proveedor",
+        "createdAt": "2025-03-28T16:10:00Z",
+        "updatedAt": "2025-03-29T11:45:00Z",
+        "deliveredAt": null
+    },
+    {
+        "id": "ord-016",
+        "orderNumber": "ORD-2025-0016",
+        "customerId": "c6",
+        "items": [
+            {
+                "productId": "p027",
+                "productName": "Sellador de Silicón Transparente",
+                "quantity": 10,
+                "unitPrice": 3.99,
+                "subtotal": 39.90
+            },
+            {
+                "productId": "p028",
+                "productName": "Pala Rectangular",
+                "quantity": 1,
+                "unitPrice": 11.50,
+                "subtotal": 11.50
+            }
+        ],
+        "totalAmount": 59.63,
+        "tax": 8.23,
+        "discount": null,
+        "status": "delivered",
+        "paymentMethod": "cash",
+        "paymentStatus": "paid",
+        "notes": "Entregado en almacén",
+        "createdAt": "2025-04-01T08:20:00Z",
+        "updatedAt": "2025-04-02T14:10:00Z",
+        "deliveredAt": "2025-04-02T14:10:00Z"
+    },
+    {
+        "id": "ord-017",
+        "orderNumber": "ORD-2025-0017",
+        "customerId": "c7",
+        "items": [
+            {
+                "productId": "p029",
+                "productName": "Carretilla 100L",
+                "quantity": 2,
+                "unitPrice": 49.99,
+                "subtotal": 99.98
+            }
+        ],
+        "totalAmount": 115.98,
+        "tax": 16.00,
+        "discount": null,
+        "status": "preparing",
+        "paymentMethod": "paypal",
+        "paymentStatus": "paid",
+        "notes": "Preparar para recogida en tienda",
+        "createdAt": "2025-04-05T12:45:00Z",
+        "updatedAt": "2025-04-06T10:20:00Z",
+        "deliveredAt": null
+    },
+    {
+        "id": "ord-018",
+        "orderNumber": "ORD-2025-0018",
+        "customerId": "c8",
+        "items": [
+            {
+                "productId": "p030",
+                "productName": "Viga de Acero IPN 120",
+                "quantity": 3,
+                "unitPrice": 98.50,
+                "subtotal": 295.50
+            }
+        ],
+        "totalAmount": 342.78,
+        "tax": 47.28,
+        "discount": null,
+        "status": "shipped",
+        "paymentMethod": "transfer",
+        "paymentStatus": "paid",
+        "notes": "Transporte especial necesario",
+        "createdAt": "2025-04-10T09:15:00Z",
+        "updatedAt": "2025-04-12T16:30:00Z",
+        "deliveredAt": null
+    },
+    {
+        "id": "ord-019",
+        "orderNumber": "ORD-2025-0019",
+        "customerId": "c9",
+        "items": [
+            {
+                "productId": "p031",
+                "productName": "Lámina Galvanizada 0.5mm",
+                "quantity": 10,
+                "unitPrice": 22.75,
+                "subtotal": 227.50
+            },
+            {
+                "productId": "p032",
+                "productName": "Impermeabilizante Acrílico 19L",
+                "quantity": 2,
+                "unitPrice": 45.99,
+                "subtotal": 91.98
+            }
+        ],
+        "totalAmount": 370.73,
+        "tax": 51.14,
+        "discount": 10.00,
+        "status": "pending",
+        "paymentMethod": "credit_card",
+        "paymentStatus": "pending",
+        "notes": "Descuento por pronto pago",
+        "createdAt": "2025-04-15T11:30:00Z",
+        "updatedAt": "2025-04-15T11:30:00Z",
+        "deliveredAt": null
+    },
+    {
+        "id": "ord-020",
+        "orderNumber": "ORD-2025-0020",
+        "customerId": "c10",
+        "items": [
+            {
+                "productId": "p033",
+                "productName": "Cincel Plano 20cm",
+                "quantity": 3,
+                "unitPrice": 8.49,
+                "subtotal": 25.47
+            },
+            {
+                "productId": "p034",
+                "productName": "Martillo de Uña 450g",
+                "quantity": 1,
+                "unitPrice": 10.99,
+                "subtotal": 10.99
+            }
+        ],
+        "totalAmount": 42.29,
+        "tax": 5.83,
+        "discount": null,
+        "status": "delivered",
+        "paymentMethod": "cash",
+        "paymentStatus": "paid",
+        "notes": null,
+        "createdAt": "2025-04-18T15:40:00Z",
+        "updatedAt": "2025-04-19T12:05:00Z",
+        "deliveredAt": "2025-04-19T12:05:00Z"
+    }
+]

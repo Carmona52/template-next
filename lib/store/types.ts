@@ -1,4 +1,6 @@
-import {Product} from "@/lib/types/products";
+import { Product } from "@/lib/types/products";
+import { Customer } from "@/lib/types/customer";
+import { Order } from "@/lib/types/order";
 
 export interface CounterState {
     count: number
@@ -21,5 +23,18 @@ export interface ProductsListState {
     resetProducts: () => void
 }
 
-export interface AppState extends CounterState, AuthState, ProductsListState {
+export interface CustomersListState {
+    customers: Customer[]
+    appendCustomers: () => void
+    deleteCustomers: () => void
+    resetCustomers: () => void
 }
+
+export interface OrdersListState {
+    orders: Order[]
+    appendOrders: () => void
+    deleteOrders: () => void
+    resetOrders: () => void
+}
+
+export interface AppState extends CounterState, AuthState, ProductsListState, CustomersListState, OrdersListState { }

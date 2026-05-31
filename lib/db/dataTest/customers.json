@@ -1,0 +1,162 @@
+[
+    {
+        "id": "c1",
+        "firstName": "Ana",
+        "lastName": "García",
+        "email": "ana.garcia@email.com",
+        "phone": "+34 611 22 33 44",
+        "address": {
+            "street": "Calle Mayor 12, 3A",
+            "city": "Madrid",
+            "state": "Madrid",
+            "zipCode": "28013",
+            "country": "España"
+        },
+        "createdAt": "2023-01-15T10:30:00Z",
+        "updatedAt": "2024-02-20T15:45:00Z"
+    },
+    {
+        "id": "c2",
+        "firstName": "Carlos",
+        "lastName": "López",
+        "email": "carlos.lopez@email.com",
+        "phone": "+34 622 33 44 55",
+        "address": {
+            "street": "Av. Diagonal 456, 2-1",
+            "city": "Barcelona",
+            "state": "Cataluña",
+            "zipCode": "08021",
+            "country": "España"
+        },
+        "createdAt": "2023-02-20T11:15:00Z",
+        "updatedAt": "2024-01-10T09:20:00Z"
+    },
+    {
+        "id": "c3",
+        "firstName": "María",
+        "lastName": "Martínez",
+        "email": "maria.martinez@email.com",
+        "phone": "+34 633 44 55 66",
+        "address": {
+            "street": "Calle República Argentina 8",
+            "city": "Sevilla",
+            "state": "Andalucía",
+            "zipCode": "41011",
+            "country": "España"
+        },
+        "createdAt": "2023-03-05T09:00:00Z",
+        "updatedAt": "2024-03-01T12:10:00Z"
+    },
+    {
+        "id": "c4",
+        "firstName": "Javier",
+        "lastName": "Rodríguez",
+        "email": "javier.rodriguez@email.com",
+        "phone": "+34 644 55 66 77",
+        "address": {
+            "street": "Plaza del Pilar 3",
+            "city": "Zaragoza",
+            "state": "Aragón",
+            "zipCode": "50003",
+            "country": "España"
+        },
+        "createdAt": "2023-04-18T14:20:00Z",
+        "updatedAt": "2024-02-25T18:30:00Z"
+    },
+    {
+        "id": "c5",
+        "firstName": "Laura",
+        "lastName": "Fernández",
+        "email": "laura.fernandez@email.com",
+        "phone": "+34 655 66 77 88",
+        "address": {
+            "street": "Calle Larios 10, 1º",
+            "city": "Málaga",
+            "state": "Andalucía",
+            "zipCode": "29015",
+            "country": "España"
+        },
+        "createdAt": "2023-05-22T08:45:00Z",
+        "updatedAt": "2024-02-10T14:00:00Z"
+    },
+    {
+        "id": "c6",
+        "firstName": "David",
+        "lastName": "Sánchez",
+        "email": "david.sanchez@email.com",
+        "phone": "+34 666 77 88 99",
+        "address": {
+            "street": "Gran Vía 50, 5D",
+            "city": "Valencia",
+            "state": "Comunidad Valenciana",
+            "zipCode": "46001",
+            "country": "España"
+        },
+        "createdAt": "2023-06-10T16:00:00Z",
+        "updatedAt": "2024-01-30T11:40:00Z"
+    },
+    {
+        "id": "c7",
+        "firstName": "Elena",
+        "lastName": "Gómez",
+        "email": "elena.gomez@email.com",
+        "phone": "+34 677 88 99 00",
+        "address": {
+            "street": "Calle San Juan 22",
+            "city": "Bilbao",
+            "state": "País Vasco",
+            "zipCode": "48004",
+            "country": "España"
+        },
+        "createdAt": "2023-07-30T13:10:00Z",
+        "updatedAt": "2024-03-05T09:15:00Z"
+    },
+    {
+        "id": "c8",
+        "firstName": "Pablo",
+        "lastName": "Díaz",
+        "email": "pablo.diaz@email.com",
+        "phone": "+34 688 99 00 11",
+        "address": {
+            "street": "Rúa do Franco 7",
+            "city": "Santiago de Compostela",
+            "state": "Galicia",
+            "zipCode": "15702",
+            "country": "España"
+        },
+        "createdAt": "2023-08-14T12:25:00Z",
+        "updatedAt": "2024-02-18T16:20:00Z"
+    },
+    {
+        "id": "c9",
+        "firstName": "Lucía",
+        "lastName": "Álvarez",
+        "email": "lucia.alvarez@email.com",
+        "phone": "+34 699 00 11 22",
+        "address": {
+            "street": "Calle Miraflores 4",
+            "city": "Palma de Mallorca",
+            "state": "Islas Baleares",
+            "zipCode": "07001",
+            "country": "España"
+        },
+        "createdAt": "2023-09-25T17:50:00Z",
+        "updatedAt": "2024-01-22T08:30:00Z"
+    },
+    {
+        "id": "c10",
+        "firstName": "Marta",
+        "lastName": "Ruiz",
+        "email": "marta.ruiz@email.com",
+        "phone": "+34 600 11 22 33",
+        "address": {
+            "street": "Avenida de la Constitución 3",
+            "city": "Murcia",
+            "state": "Región de Murcia",
+            "zipCode": "30001",
+            "country": "España"
+        },
+        "createdAt": "2023-10-07T19:00:00Z",
+        "updatedAt": "2024-02-28T10:45:00Z"
+    }
+]
